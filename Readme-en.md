@@ -1,10 +1,10 @@
 # Supermarket manager
 
-*Ver em [Português](https://github.com/DiogoMarques2003/GestorSupermecado)* 
+*Ver em [Português](https://github.com/ludgeromiguel/TrabalhoFinalEstruturas)* 
 
 ## Explicação do trabalho:
 This was the final project made for the Data Structures course.
-The purpose of this program was explained [here](https://github.com/DiogoMarques2003/GestorSupermecado/blob/master/enunciado.pdf).
+The purpose of this program was explained [here](https://github.com/ludgeromiguel/TrabalhoFinalEstruturas/blob/master/enunciado.pdf).
 
 ## Dados de login default
 If there is no employee account, one will be created with the username `admin` and the password `passwordAdmin`.
